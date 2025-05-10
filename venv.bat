@@ -7,4 +7,4 @@ REM Usage: venv.bat
 .\.venv\Scripts\Activate
 
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r req.txt
